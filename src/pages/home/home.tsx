@@ -12,9 +12,9 @@ export default function home() {
         <div>
             <Banner />
             <Who />
-            {/* <Whatweoffer />
+            <Whatweoffer />
             <Team />
-            <Contact /> */}
+            <Contact />
             <div className="footer">© SamparkBindhu 2020-21</div>
 
         </div>
